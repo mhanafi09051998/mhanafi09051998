@@ -1,18 +1,19 @@
 # 👨‍💻 Muhammad Hanafi, S.Tr.Kom.
-### Independent Systems Researcher • Founder of Gahar Inovasi Teknologi
+### Independent Technology Researcher • Systems Architect
 
-[![Website](https://img.shields.io/badge/Portfolio-zolu.my.id-indigo?style=for-the-badge&logo=google-chrome&logoColor=white)](https://zolu.my.id)
-[![Flagship Project](https://img.shields.io/badge/Flagship-Claudia_Code_v4.0-cyan?style=for-the-badge&logo=terminal&logoColor=white)](https://claudiacode.zolu.my.id)
+[![Personal Portfolio](https://img.shields.io/badge/Portfolio-zolu.my.id-indigo?style=for-the-badge&logo=google-chrome&logoColor=white)](https://zolu.my.id)
+[![Claudia Code Portal](https://img.shields.io/badge/Claudia_Code_Portal-claudiacode.zolu.my.id-cyan?style=for-the-badge&logo=terminal&logoColor=white)](https://claudiacode.zolu.my.id)
 [![Alumnus](https://img.shields.io/badge/Alumnus-ULBI_2020-blue?style=for-the-badge)](https://zolu.my.id)
 
 ---
 
-### 🌟 Flagship Open-Source Innovation:
-⚡ **[claudia-code](https://github.com/mhanafi09051998/claudia-code)** — Autonomous AI Senior Engineering Agent & Terminal IDE.
+### 🌟 Flagship Project:
+⚡ **[Claudia Code](https://claudiacode.zolu.my.id)** ([Repository](https://github.com/mhanafi09051998/claudia-code)) — Autonomous AI Senior Engineering Agent & Terminal IDE.
+- **Dedicated Product Website:** [https://claudiacode.zolu.my.id](https://claudiacode.zolu.my.id)
 - **Install in 1 Second:**
   - 🪟 Windows: `irm https://get.zolu.my.id/win | iex`
   - 🐧 Linux & 🍎 macOS: `curl -fsSL https://get.zolu.my.id | bash`
-- **Features:** 29 Slash Commands (`/refactor`, `/patch`, `/test` auto-healing, `/commit`), `CLAUDIA.md` project memory, bilingual ID/EN, and zero-configuration intelligence.
+- **Capabilities:** 29 Standardized Slash Commands (`/refactor`, `/patch`, `/commit`, `/test` auto-healer, `/reasoning`), `CLAUDIA.md` project memory, bilingual engine.
 
 ---
 
@@ -31,5 +32,5 @@
 ---
 
 <p align="center">
-  <sub>Portfolio: <a href="https://zolu.my.id">zolu.my.id</a> • Claudia Portal: <a href="https://claudiacode.zolu.my.id">claudiacode.zolu.my.id</a></sub>
+  <sub>Personal Portfolio: <a href="https://zolu.my.id">zolu.my.id</a> • Official Product Portal: <a href="https://claudiacode.zolu.my.id">claudiacode.zolu.my.id</a></sub>
 </p>
