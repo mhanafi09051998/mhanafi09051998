@@ -13,45 +13,45 @@
 
 ---
 
-### 🧠 Engineering Vision & Philosophy
+### 🧠 Visi & Filosofi Rekayasa
 
-> **"The best code is the code never written. Engineering is not about accumulating abstractions; it is about building high-leverage systems with zero-bloat, deterministic reliability, and extreme mechanical sympathy."**
+> **"Kode terbaik adalah kode yang tidak perlu ditulis. Rekayasa perangkat lunak bukanlah tentang menumpuk abstraksi, melainkan membangun sistem berdaya ungkit tinggi dengan keandalan deterministik, zero-bloat, dan mechanical sympathy ekstrem."**
 
-I am a **Lead AI Engineer**, **Full-Stack Systems Architect**, and the Founder of **Gahar Inovasi Teknologi**. My engineering focus spans autonomous neural agent orchestration, high-throughput distributed media pipelines, low-overhead edge networks, and resilient self-sovereign infrastructure.
+Saya adalah seorang **Lead AI Engineer**, **Full-Stack Systems Architect**, dan Pendiri **Gahar Inovasi Teknologi**. Fokus rekayasa saya mencakup orkestrasi agen AI neural otonom, pipeline media terdistribusi berkecepatan tinggi, jaringan edge dengan overhead rendah, dan infrastruktur berdaulat (*self-sovereign*).
 
-- 🪜 **The Minimality Ladder**: Solve problems at the lowest viable layer—standard library over third-party bloat, native OS primitives over heavy runtimes, shortest working diffs.
-- ⚡ **Mechanical Sympathy & Fast I/O**: Designing software around NVMe sequential access, cache lines, zero-copy buffers, and sub-millisecond edge latency.
-- 🌐 **Edge-First Self-Sovereignty**: Sovereign microservices hosted on hardened Linux VPS clusters with Cloudflare TLS 1.3 edge termination, PM2 process supervision, and automated CI/CD pipelines.
+- 🪜 **The Minimality Ladder**: Menyelesaikan masalah pada lapisan paling dasar—mengutamakan standard library daripada dependensi berlebih, primitif native OS daripada runtime berat, serta diff perubahan kode seminimal mungkin.
+- ⚡ **Mechanical Sympathy & Fast I/O**: Merancang perangkat lunak yang selaras dengan akses sekuensial NVMe, cache lines, zero-copy buffer, dan latensi edge sub-milidetik.
+- 🌐 **Infrastruktur Mandiri Berbasis Edge**: Layanan mikro berdaulat yang dihosting pada kluster Linux VPS dengan terminasi Cloudflare TLS 1.3 edge, supervisi proses PM2, dan otomatisasi CI/CD.
 
 ---
 
-### 🚀 Flagship Products & Ecosystem
+### 🚀 Produk Unggulan & Ekosistem
 
 <table>
   <tr>
     <td width="50%" valign="top">
       <h4>🧠 <a href="https://claudiacode.zolu.my.id">Claudia Autonomous AI Engine</a></h4>
-      <p><b>Autonomous Senior Engineering Agent &amp; Terminal IDE (Claudia 5.0 Max)</b></p>
+      <p><b>Agen Rekayasa Perangkat Lunak Otonom &amp; Terminal IDE (Claudia 5.0 Max)</b></p>
       <ul>
-        <li>Dual-tier cognitive reasoning with autonomous AST self-healing loop.</li>
-        <li>Powerline HUD, 29 standardized slash commands, and multi-agent delegation.</li>
-        <li>Bilingual autonomous orchestration with <i>Minimality Ladder</i> heuristics.</li>
+        <li>Penalaran kognitif dual-tier dengan loop perbaikan mandiri (AST self-healing).</li>
+        <li>TUI responsif, 29 perintah slash terstandarisasi, dan delegasi multi-agen.</li>
+        <li>Orkestrasi dwibahasa otonom dengan heuristik <i>Minimality Ladder</i>.</li>
       </ul>
       <p>
-        <a href="https://claudiacode.zolu.my.id"><img src="https://img.shields.io/badge/Live_Portal-claudiacode.zolu.my.id-6366f1?style=flat-square&logo=terminal&logoColor=white" /></a>
+        <a href="https://claudiacode.zolu.my.id"><img src="https://img.shields.io/badge/Portal_Live-claudiacode.zolu.my.id-6366f1?style=flat-square&logo=terminal&logoColor=white" /></a>
         <a href="https://github.com/mhanafi09051998/claudia-code"><img src="https://img.shields.io/badge/Repository-claudia--code-0f172a?style=flat-square&logo=github&logoColor=white" /></a>
       </p>
     </td>
     <td width="50%" valign="top">
       <h4>🎬 <a href="https://goblix.my.id">Goblix Streaming Platform</a></h4>
-      <p><b>High-Throughput Media &amp; Torrent Acceleration Streaming Engine</b></p>
+      <p><b>Engine Streaming Media &amp; Akselerasi Torrent Berkecepatan Tinggi</b></p>
       <ul>
-        <li>Full-pipeline parallel torrent ingest (50+ simultaneous streams) with instant playback.</li>
-        <li>Dual-engine HLS/MP4 transcoding and real-time multi-language subtitle synchronization.</li>
-        <li>Clean, cinema-grade enterprise dual-theme SaaS interface.</li>
+        <li>Pipeline ingest paralel torrent (50+ stream simultan) dengan pemutaran instan.</li>
+        <li>Transcoding dual-engine HLS/MP4 dan sinkronisasi subtitle multibahasa otomatis.</li>
+        <li>Antarmuka SaaS sinematik tema ganda (*Dark/Light*) tingkat enterprise.</li>
       </ul>
       <p>
-        <a href="https://goblix.my.id"><img src="https://img.shields.io/badge/Production-goblix.my.id-0284c7?style=flat-square&logo=googlechrome&logoColor=white" /></a>
+        <a href="https://goblix.my.id"><img src="https://img.shields.io/badge/Produksi-goblix.my.id-0284c7?style=flat-square&logo=googlechrome&logoColor=white" /></a>
         <a href="https://dev.goblix.my.id"><img src="https://img.shields.io/badge/Staging-dev.goblix.my.id-334155?style=flat-square&logo=vercel&logoColor=white" /></a>
       </p>
     </td>
@@ -59,27 +59,27 @@ I am a **Lead AI Engineer**, **Full-Stack Systems Architect**, and the Founder o
   <tr>
     <td width="50%" valign="top">
       <h4>🔒 <a href="https://kudisk.my.id">KUDISK Cloud Storage</a></h4>
-      <p><b>Private Encrypted Cloud Storage &amp; High-Speed File Management</b></p>
+      <p><b>Penyimpanan Cloud Terenkripsi &amp; Manajemen File Berkecepatan Tinggi</b></p>
       <ul>
-        <li>Zero-knowledge client-side encryption and high-throughput chunked uploads.</li>
-        <li>NVMe-accelerated flat-file document store with instant file previews.</li>
-        <li>Integrated Superadmin tier, quota metering, and automated storage lifecycle.</li>
+        <li>Enkripsi sisi klien zero-knowledge dan pengunggahan berkas tersegmen (chunked).</li>
+        <li>Penyimpanan dokumen terakselerasi NVMe dengan pratinjau instan dokumen &amp; media.</li>
+        <li>Tier Superadmin terintegrasi, pemantauan kuota, dan siklus hidup penyimpanan otomatis.</li>
       </ul>
       <p>
-        <a href="https://kudisk.my.id"><img src="https://img.shields.io/badge/Production-kudisk.my.id-0284c7?style=flat-square&logo=googlechrome&logoColor=white" /></a>
+        <a href="https://kudisk.my.id"><img src="https://img.shields.io/badge/Produksi-kudisk.my.id-0284c7?style=flat-square&logo=googlechrome&logoColor=white" /></a>
         <a href="https://dev.kudisk.my.id"><img src="https://img.shields.io/badge/Staging-dev.kudisk.my.id-334155?style=flat-square&logo=vercel&logoColor=white" /></a>
       </p>
     </td>
     <td width="50%" valign="top">
       <h4>🛡️ <a href="https://ndes.my.id">NDES Edge Firewall</a></h4>
-      <p><b>Next-Gen DNS-over-HTTPS (DoH) &amp; Edge Network Filtering Firewall</b></p>
+      <p><b>DNS-over-HTTPS (DoH) &amp; Firewall Penyaringan Jaringan Generasi Baru</b></p>
       <ul>
-        <li>Ultra-low latency recursive DoH resolver with threat intelligence blocking.</li>
-        <li>Custom rule-based filtering, telemetry analytics, and zero-logging privacy.</li>
-        <li>Enterprise SaaS dashboard with real-time query stream inspection.</li>
+        <li>Resolver DoH rekursif latensi ultra-rendah dengan pemblokir ancaman real-time.</li>
+        <li>Penyaringan berbasis aturan kustom, telemetri analitik, dan privasi tanpa pencatatan log.</li>
+        <li>Dashboard SaaS enterprise dengan inspeksi aliran kueri secara langsung.</li>
       </ul>
       <p>
-        <a href="https://ndes.my.id"><img src="https://img.shields.io/badge/Production-ndes.my.id-0284c7?style=flat-square&logo=googlechrome&logoColor=white" /></a>
+        <a href="https://ndes.my.id"><img src="https://img.shields.io/badge/Produksi-ndes.my.id-0284c7?style=flat-square&logo=googlechrome&logoColor=white" /></a>
         <a href="https://dev.ndes.my.id"><img src="https://img.shields.io/badge/Staging-dev.ndes.my.id-334155?style=flat-square&logo=vercel&logoColor=white" /></a>
       </p>
     </td>
@@ -87,14 +87,14 @@ I am a **Lead AI Engineer**, **Full-Stack Systems Architect**, and the Founder o
   <tr>
     <td colspan="2" valign="top">
       <h4>📹 <a href="https://ngomel.my.id">NGOMEL Real-Time Collaboration</a></h4>
-      <p><b>Real-Time Ultra Low Latency Video Conferencing &amp; Workspace Collaboration</b></p>
+      <p><b>Konferensi Video Latensi Ultra Rendah &amp; Kolaborasi Ruang Kerja Real-Time</b></p>
       <ul>
-        <li>Peer-to-peer WebRTC mesh architecture with selective forwarding optimizations.</li>
-        <li>Sub-50ms glass-to-glass latency, spatial audio isolation, and high-fidelity screen sharing.</li>
-        <li>Integrated meeting rooms, encrypted signaling channel, and zero-plugin web client.</li>
+        <li>Arsitektur WebRTC mesh peer-to-peer dengan optimasi selective forwarding.</li>
+        <li>Latensi sub-50ms glass-to-glass, isolasi audio spasial, dan berbagi layar fidelitas tinggi.</li>
+        <li>Ruang rapat terintegrasi, saluran sinyal terenkripsi, dan klien web tanpa plugin.</li>
       </ul>
       <p>
-        <a href="https://ngomel.my.id"><img src="https://img.shields.io/badge/Production-ngomel.my.id-0284c7?style=flat-square&logo=googlechrome&logoColor=white" /></a>
+        <a href="https://ngomel.my.id"><img src="https://img.shields.io/badge/Produksi-ngomel.my.id-0284c7?style=flat-square&logo=googlechrome&logoColor=white" /></a>
         <a href="https://dev.ngomel.my.id"><img src="https://img.shields.io/badge/Staging-dev.ngomel.my.id-334155?style=flat-square&logo=vercel&logoColor=white" /></a>
       </p>
     </td>
@@ -103,11 +103,11 @@ I am a **Lead AI Engineer**, **Full-Stack Systems Architect**, and the Founder o
 
 ---
 
-### 🛠️ Technical Stack & Engineering Weapons
+### 🛠️ Senjata Rekayasa & Stack Teknologi
 
 <table>
   <tr>
-    <td width="22%"><b>Core Languages</b></td>
+    <td width="22%"><b>Bahasa Pemrograman</b></td>
     <td>
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
@@ -130,7 +130,7 @@ I am a **Lead AI Engineer**, **Full-Stack Systems Architect**, and the Founder o
     </td>
   </tr>
   <tr>
-    <td><b>Backend &amp; Runtimes</b></td>
+    <td><b>Backend &amp; Runtime</b></td>
     <td>
       <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
       <img src="https://img.shields.io/badge/Bun-000000?style=flat-square&logo=bun&logoColor=white" />
@@ -140,7 +140,7 @@ I am a **Lead AI Engineer**, **Full-Stack Systems Architect**, and the Founder o
     </td>
   </tr>
   <tr>
-    <td><b>AI &amp; Autonomous Engines</b></td>
+    <td><b>AI &amp; Agen Otonom</b></td>
     <td>
       <img src="https://img.shields.io/badge/Autonomous_Agents-6366f1?style=flat-square&logo=openai&logoColor=white" />
       <img src="https://img.shields.io/badge/LLM_Fine_Tuning-10b981?style=flat-square&logo=huggingface&logoColor=white" />
@@ -150,7 +150,7 @@ I am a **Lead AI Engineer**, **Full-Stack Systems Architect**, and the Founder o
     </td>
   </tr>
   <tr>
-    <td><b>Databases &amp; State</b></td>
+    <td><b>Database &amp; State</b></td>
     <td>
       <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
       <img src="https://img.shields.io/badge/Embedded_NoSQL-0284c7?style=flat-square&logo=json&logoColor=white" />
@@ -159,7 +159,7 @@ I am a **Lead AI Engineer**, **Full-Stack Systems Architect**, and the Founder o
     </td>
   </tr>
   <tr>
-    <td><b>DevOps &amp; Infrastructure</b></td>
+    <td><b>DevOps &amp; Infrastruktur</b></td>
     <td>
       <img src="https://img.shields.io/badge/Linux_VPS-FCC624?style=flat-square&logo=linux&logoColor=black" />
       <img src="https://img.shields.io/badge/Cloudflare_Edge-F38020?style=flat-square&logo=cloudflare&logoColor=white" />
@@ -173,7 +173,7 @@ I am a **Lead AI Engineer**, **Full-Stack Systems Architect**, and the Founder o
 
 ---
 
-### 📊 GitHub Activity & Metrics
+### 📊 Aktivitas GitHub & Metrik
 
 <div align="center">
 
@@ -191,15 +191,15 @@ I am a **Lead AI Engineer**, **Full-Stack Systems Architect**, and the Founder o
 
 ---
 
-### 📬 Connect & Collaborate
+### 📬 Kontak & Kolaborasi
 
-Have an ambitious systems engineering challenge, AI architecture initiative, or enterprise partnership? Let's connect:
+Memiliki tantangan rekayasa sistem berkonkurensi tinggi, inisiatif arsitektur AI, atau kemitraan enterprise? Mari terhubung:
 
-- 🌐 **Personal Portfolio:** [zolu.my.id](https://zolu.my.id)
-- 💼 **WhatsApp Direct:** [+62 851-9590-1080](https://wa.me/6285195901080)
+- 🌐 **Portofolio Pribadi:** [zolu.my.id](https://zolu.my.id)
+- 💼 **WhatsApp Langsung:** [+62 851-9590-1080](https://wa.me/6285195901080)
 - ✉️ **Email:** [mhanafi09051998@gmail.com](mailto:mhanafi09051998@gmail.com)
 - 🐙 **GitHub:** [@mhanafi09051998](https://github.com/mhanafi09051998)
 
 <div align="center">
-  <sub>© 2026 <b>Muhammad Hanafi</b> • Founder of <b>Gahar Inovasi Teknologi</b> • Built with precision &amp; zero-bloat.</sub>
+  <sub>© 2026 <b>Muhammad Hanafi</b> • Pendiri <b>Gahar Inovasi Teknologi</b> • Dibangun dengan presisi &amp; zero-bloat.</sub>
 </div>
