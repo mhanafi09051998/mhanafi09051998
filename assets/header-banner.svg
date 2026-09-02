@@ -34,7 +34,7 @@
   <g transform="translate(48, 36)">
     <rect x="0" y="0" width="380" height="26" rx="13" fill="#0f172a" stroke="#334155" stroke-width="1" />
     <circle cx="14" cy="13" r="4.5" fill="#10b981" />
-    <text x="28" y="17" fill="#38bdf8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="11" font-weight="700" letter-spacing="1.2">GAHAR INOVASI TEKNOLOGI • LEAD AI ENGINEER</text>
+    <text x="28" y="17" fill="#38bdf8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="11" font-weight="700" letter-spacing="1.2">GAHAR INOVASI TEKNOLOGI • FULL-STACK DEVELOPER</text>
   </g>
 
   <!-- Main Name Title -->
@@ -42,30 +42,30 @@
 
   <!-- Role Subtitle -->
   <text x="48" y="144" fill="#94a3b8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="15" font-weight="500">
-    <tspan fill="#38bdf8" font-weight="600">Lead AI Engineer</tspan> &amp; <tspan fill="#e2e8f0" font-weight="600">Full-Stack Systems Architect</tspan>
+    <tspan fill="#38bdf8" font-weight="600">Full-Stack Developer</tspan> &amp; <tspan fill="#e2e8f0" font-weight="600">Automation Engineer</tspan>
   </text>
 
   <!-- Tagline -->
   <text x="48" y="176" fill="#cbd5e1" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="13.5" font-weight="400" font-style="italic">
-    "Crafting High-Performance Distributed Systems, Autonomous AI Engines &amp; Next-Gen Web Ecosystems"
+    "Membangun aplikasi web dan alat otomasi untuk sistem yang benar-benar dipakai"
   </text>
 
   <!-- Bottom Badges / Tech Highlights -->
   <g transform="translate(48, 206)">
-    <!-- Pill 1: Minimality Ladder -->
-    <rect x="0" y="0" width="138" height="24" rx="6" fill="#0f172a" stroke="#1e293b" stroke-width="1"/>
-    <text x="69" y="16" fill="#38bdf8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10.5" font-weight="600" text-anchor="middle">⚡ Minimality Ladder</text>
+    <!-- Pill 1: Next.js -->
+    <rect x="0" y="0" width="112" height="24" rx="6" fill="#0f172a" stroke="#1e293b" stroke-width="1"/>
+    <text x="56" y="16" fill="#38bdf8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10.5" font-weight="600" text-anchor="middle">Next.js</text>
 
-    <!-- Pill 2: Zero-Boilerplate -->
-    <rect x="148" y="0" width="132" height="24" rx="6" fill="#0f172a" stroke="#1e293b" stroke-width="1"/>
-    <text x="214" y="16" fill="#a78bfa" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10.5" font-weight="600" text-anchor="middle">🛡️ Zero-Boilerplate</text>
+    <!-- Pill 2: TypeScript -->
+    <rect x="122" y="0" width="120" height="24" rx="6" fill="#0f172a" stroke="#1e293b" stroke-width="1"/>
+    <text x="182" y="16" fill="#a78bfa" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10.5" font-weight="600" text-anchor="middle">TypeScript</text>
 
-    <!-- Pill 3: Fast I/O -->
-    <rect x="290" y="0" width="128" height="24" rx="6" fill="#0f172a" stroke="#1e293b" stroke-width="1"/>
-    <text x="354" y="16" fill="#34d399" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10.5" font-weight="600" text-anchor="middle">🚀 Sub-ms Fast I/O</text>
+    <!-- Pill 3: Automation -->
+    <rect x="252" y="0" width="128" height="24" rx="6" fill="#0f172a" stroke="#1e293b" stroke-width="1"/>
+    <text x="316" y="16" fill="#34d399" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10.5" font-weight="600" text-anchor="middle">Shell Automation</text>
 
-    <!-- Pill 4: Edge Architecture -->
-    <rect x="428" y="0" width="148" height="24" rx="6" fill="#0f172a" stroke="#1e293b" stroke-width="1"/>
-    <text x="502" y="16" fill="#fbbf24" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10.5" font-weight="600" text-anchor="middle">🌐 Edge Architecture</text>
+    <!-- Pill 4: Linux Infra -->
+    <rect x="390" y="0" width="112" height="24" rx="6" fill="#0f172a" stroke="#1e293b" stroke-width="1"/>
+    <text x="446" y="16" fill="#fbbf24" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10.5" font-weight="600" text-anchor="middle">Linux Infra</text>
   </g>
 </svg>
