@@ -49,6 +49,9 @@ Repositori publik yang bisa dilihat langsung:
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![MikroTik](https://img.shields.io/badge/MikroTik-293239?style=flat-square&logo=mikrotik&logoColor=white)
+
+Selain pengembangan aplikasi, saya juga menangani administrasi VPS, VDS, dan dedicated server, termasuk konfigurasi dan manajemen jaringan MikroTik (RouterOS).
 
 ---
 
