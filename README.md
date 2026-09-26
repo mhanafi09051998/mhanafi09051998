@@ -20,18 +20,38 @@ Full-stack developer yang membangun aplikasi web dengan Next.js, TypeScript, dan
 
 ### Proyek
 
+Proyek berikut ditemukan pada VPS saya. Daftar ini mencakup aplikasi dan eksperimen yang masih memiliki berkas di server, bukan arsip cadangan atau salinan deployment yang sama. Tidak semua proyek memiliki repositori publik.
+
 | Proyek | Keterangan |
 |---|---|
-| [Goblix](https://goblix.my.id) | Platform streaming media |
-| [KUDISK](https://kudisk.my.id) | Penyimpanan cloud dan manajemen berkas |
-| [NGOMEL](https://ngomel.my.id) | Kolaborasi dan konferensi video real-time |
-| [NDES](https://ndes.my.id) | Firewall dan penyaringan jaringan berbasis DNS |
+| Calistung | Aplikasi pembelajaran membaca dan berhitung |
+| Colex | Aplikasi berbasis Express |
+| Falah Birthday | Situs ulang tahun |
+| Gemar Baca | Portal literasi digital dan komunitas membaca |
+| Goblix | Platform streaming media |
+| Inkey | Aplikasi web berbasis Next.js |
+| Kancil Sniper | Riset data historis dan backtest token Pump.fun; bukan bot trading aktif |
+| KUDISK | Penyimpanan cloud dan manajemen berkas |
+| Muhammad Fatoni | Situs pribadi dan blog |
+| NDES | Penyaringan DNS dan keamanan jaringan |
+| Ngoding | Control plane Next.js dengan pekerja terpisah |
+| NGOMEL | Konferensi video |
+| Prodgen | Generator rencana produksi pengembangan situs full-stack |
+| Rencana Besar | Situs organisasi |
+| Tontix | Platform tutorial video |
+| Vibrena | Platform streaming musik dan interaksi sosial |
+| XAUUSD Bot | Aplikasi otomasi terkait XAU/USD |
+| Zolu Crew | Aplikasi web berbasis Next.js |
+| Zolu Get | Layanan berbasis Express |
+| Zolu Invite | Proyek dengan stack Docker |
+| Zolu Kas | Aplikasi kas berbasis Next.js |
+| Zolu Monitor | Aplikasi pemantauan berbasis Next.js |
+| Zolu Mothership | Layanan web berbasis Express |
+| Zolu Skripsi | Aplikasi web berbasis Next.js |
 
-Repositori publik yang bisa dilihat langsung:
+Eksperimen dan utilitas yang juga ditemukan pada VPS: Arga Exec, Solana Hand, Tegar BT, dan Trend Study.
 
-- **[superpromptdeveloper](https://github.com/mhanafi09051998/superpromptdeveloper)** (Next.js, Tailwind CSS, TypeScript)
-- **[Starterkit-NodeJS-Full-Stack](https://github.com/mhanafi09051998/Starterkit-NodeJS-Full-Stack)** (TypeScript)
-- **[medvi-clone](https://github.com/mhanafi09051998/medvi-clone)** (TypeScript)
+Repositori publik lainnya: superpromptdeveloper (Next.js, Tailwind CSS, TypeScript), Starterkit-NodeJS-Full-Stack (TypeScript), dan medvi-clone (TypeScript).
 
 ---
 
