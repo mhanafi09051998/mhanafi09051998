@@ -12,14 +12,27 @@
 
 ### Halo, saya Hanafi 👋
 
-Full-stack developer dan praktisi keamanan jaringan dari Mojokerto. Saya membangun aplikasi web, mengelola server Linux
-dan jaringan dari ujung ke ujung, dan meriset AI secara mandiri, terutama agen AI yang bekerja langsung di server.
+Full-stack developer dan praktisi keamanan jaringan dari Mojokerto. Saya membangun produk dari kode sampai server yang menjalankannya, lalu merawatnya sendiri setelah rilis.
 
-- 🏭 Membangun sistem ERP internal untuk kelompok usaha manufaktur di **Gahar Inovasi Teknologi**
+### Yang sedang dikerjakan
+
+- 🏭 Membangun sistem ERP internal untuk kelompok usaha manufaktur
 - 🛡️ Mengelola VPS, dedicated server, dan jaringan MikroTik sejak 2020
 - 🤖 Riset AI mandiri sejak 2024: server inferensi dan agen AI pengelola server
 
+### Produk
+
+| Produk | Yang dilakukan |
+| --- | --- |
+| [**Rekan Bot**](https://rekanbot.my.id) | Aplikasi Windows: agen AI utama merekrut rekan bernama dan menjalankan mereka dalam satu grup chat |
+| [**inkey**](https://inkey.my.id) | API AI untuk coding agent, cukup satu API key dengan saldo prabayar per token |
+| [**Kalbira**](https://kalbira.my.id) | Aplikasi chat AI yang bisa dipasang di Android dan Windows |
+| [**Temanhati**](https://temanhati.my.id) | Teman ngobrol lewat telepon suara dengan AI, khusus 18+ |
+| [**Jelma**](https://github.com/mhanafi09051998/jelma) | Ubah format gambar, video, audio, dan PDF langsung dari Windows Explorer, tanpa unggah |
+
 ### Alat kerja
+
+**Aplikasi**
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
@@ -28,6 +41,9 @@ dan jaringan dari ujung ke ujung, dan meriset AI secara mandiri, terutama agen A
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
+
+**Infrastruktur**
+
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
 ![MikroTik](https://img.shields.io/badge/MikroTik-293239?style=flat-square&logo=mikrotik&logoColor=white)
